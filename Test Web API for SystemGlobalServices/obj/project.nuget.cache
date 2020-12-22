@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ikp2AHDAK+3EO2l4PofIpaRQ77Btgd+IVDEMeDwckcveDHFnsyVVAhtSWNNQ/oSkXCetgbZwxlyZ7LwR5uQnsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brasd\\source\\repos\\Test Web API for SystemGlobalServices\\Test Web API for SystemGlobalServices\\Test Web API for SystemGlobalServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brasd\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
